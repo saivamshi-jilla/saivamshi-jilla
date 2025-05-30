@@ -31,7 +31,7 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi-jilla&layout=compact&theme=radical&langs_count=2" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi-jilla&layout=compact&theme=radical&langs_count=6" 
           width="500" 
           height="250" 
           alt="Top Languages"
